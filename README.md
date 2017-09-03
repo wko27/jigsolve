@@ -1,2 +1,2 @@
 # jigsolve
-Solver for jigsaw puzzles
+Solver assistant for jigsaw puzzles
